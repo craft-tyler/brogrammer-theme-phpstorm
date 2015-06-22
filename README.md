@@ -2,6 +2,8 @@
 
 This is a port of the original Sublime Text [Brogrammer Theme](https://github.com/kenwheeler/brogrammer-theme) for PhpStorm.  Thanks to [Ken Wheeler](https://github.com/kenwheeler) for this killer theme.
 
+###### Credit for the idea goes to [Sam Tay](https://github.com/SamTay)
+
 ## Install
 
 1. Clone [(or download)](https://github.com/craft-tyler/brogrammer-theme-phpstorm/archive/master.zip) this repository.
