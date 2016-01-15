@@ -32,6 +32,7 @@ This is a port of the original Sublime Text [Brogrammer Theme](https://github.co
 * JSON
 * JSP
 * LESS
+* Reg/Exp
 * SASS/SCSS
 * SQL
 * Twig
